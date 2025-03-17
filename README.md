@@ -1,8 +1,8 @@
 # Scanimal
 A very simple tool to help simplify Testing
-Introducing SCANNIFY: A Versatile Security Toolkit
+Introducing SCANIMAL: A Versatile Security Toolkit
 
-SCANNIMAL is a lightweight, user-friendly Python script designed to streamline common security tasks. Whether you're a seasoned security professional or just starting your journey, SCANIMAL offers a comprehensive suite of tools for URL decoding, Nmap scans, directory enumeration, XSS testing, and web technology detection.
+SCANIMAL is a lightweight, user-friendly Python script designed to streamline common security tasks. Whether you're a seasoned security professional or just starting your journey, SCANIMAL offers a comprehensive suite of tools for URL decoding, Nmap scans, directory enumeration, XSS testing, and web technology detection.
 
 Key Features:
 
